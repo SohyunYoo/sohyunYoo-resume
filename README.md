@@ -1,2 +1,7 @@
 # sohyunYoo-resume
-[오픈소스SW개발 3분반 중간 과제 제출용] 단국대학교 소프트웨어학과 23학번 유소현의 이력서입니다. 
+
+#### 기본 정보
+**이름** : 유소현  
+**전공** : 소프트웨어학과  
+**연락처** : 📞010-9931-5237 / 📧 sohyun0530.yoo@gmail.com  
+**github 주소** : https://github.com/SohyunYoo/sohyunYoo-resume.git  
