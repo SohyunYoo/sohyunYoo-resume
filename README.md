@@ -1,6 +1,6 @@
 # 이력서
 
-![증명사진](https://github.com/user-attachments/assets/88370cc0-7ed6-4ebb-9537-9caa938f6f42)
+<img src = "https://github.com/user-attachments/assets/88370cc0-7ed6-4ebb-9537-9caa938f6f42" width = "200" height = "250">
 
 ## 기본 정보
 **이름** : 유소현  
