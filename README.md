@@ -8,8 +8,7 @@
 💻 **전공** : 소프트웨어학과  
 **연락처** : 📞010-9931-5237 / 📧 sohyun0530.yoo@gmail.com  
 **github 주소** : https://github.com/SohyunYoo/sohyunYoo-resume.git  
-
-
+<br />
 
 ## 기술 스택
 | 분야 | 기술 | 
@@ -18,15 +17,14 @@
 | 웹 프론트엔드 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
 | DevOps | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) |
 | 데이터베이스 | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | 
-
+<br />
 
 
 ## 프로젝트 
-
+<br />
 
 
 
 ## 자기소개 및 학습 목표 
-
-
+<br />
 
